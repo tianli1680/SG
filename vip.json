@@ -3,9 +3,10 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
-      "name": "IPv4",
+      "name": "live",
       "type": 0,
-      "url": "./lib/live.txt",
+      //"url": "./lib/live.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/tianli1680/Box/main/js/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
