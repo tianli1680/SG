@@ -29,21 +29,22 @@
 李圣杰-痴心绝对,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
 
 📡央视频道,#genre#
-CCTV-1综合,http://124.231.212.92:9999/tsfile/live/0001_1.m3u8
-CCTV-2财经,http://124.231.212.92:9999/tsfile/live/0002_1.m3u8
-CCTV-3综艺,http://124.231.212.92:9999/tsfile/live/0003_1.m3u8
-CCTV-4国际,http://124.231.212.92:9999/tsfile/live/0004_1.m3u8
+CCTV-1综合,http://39.165.24.218:808/hls/1/index.m3u8
+CCTV-2财经,http://39.165.24.218:808/hls/2/index.m3u8
+CCTV-3综艺,http://39.165.24.218:808/hls/3/index.m3u8
+CCTV-4国际,http://39.165.24.218:808/hls/4/index.m3u8
 CCTV-5体育,http://124.231.212.92:9999/tsfile/live/0005_1.m3u8
-CCTV-6电影,http://124.231.212.92:9999/tsfile/live/0006_1.m3u8
-CCTV-7军事,http://124.231.212.92:9999/tsfile/live/0007_1.m3u8
-CCTV-8电视剧,http://124.231.212.92:9999/tsfile/live/0008_1.m3u8
-CCTV-9纪录,http://124.231.212.92:9999/tsfile/live/0009_1.m3u8
-CCTV-10科教,http://124.231.212.92:9999/tsfile/live/0010_1.m3u8
-CCTV-11戏曲,http://124.231.212.92:9999/tsfile/live/0011_1.m3u8
-CCTV-12社会与法,http://124.231.212.92:9999/tsfile/live/0012_1.m3u8
-CCTV-13新闻,http://124.231.212.92:9999/tsfile/live/0013_1.m3u8
-CCTV-14少儿,http://124.231.212.92:9999/tsfile/live/0014_1.m3u8
-CCTV-15音乐,http://124.231.212.92:9999/tsfile/live/0015_1.m3u8
+CCTV-5+体育,http://39.165.24.218:808/hls/5/index.m3u8
+CCTV-6电影,http://39.165.24.218:808/hls/6/index.m3u8
+CCTV-7军事,http://39.165.24.218:808/hls/7/index.m3u8
+CCTV-8电视剧,http://39.165.24.218:808/hls/8/index.m3u8
+CCTV-9记录,http://39.165.24.218:808/hls/9/index.m3u8
+CCTV-10科教,http://39.165.24.218:808/hls/10/index.m3u8
+CCTV-11戏曲,http://39.165.24.218:808/hls/11/index.m3u8
+CCTV-12社会与法,http://39.165.24.218:808/hls/12/index.m3u8
+CCTV-13新闻,http://39.165.24.218:808/hls/13/index.m3u8
+CCTV-14少儿,http://39.165.24.218:808/hls/14/index.m3u8
+CCTV-15音乐,http://39.165.24.218:808/hls/15/index.m3u8
 CCTV-16奥林匹克,http://124.231.212.92:9999/tsfile/live/1084_1.m3u8
 CCTV-17农业农村,http://124.231.212.92:9999/tsfile/live/0019_1.m3u8
 
