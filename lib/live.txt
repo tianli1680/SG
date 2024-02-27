@@ -88,6 +88,7 @@ CCTV-1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-1综合,http://58.19.38.233:8888/newlive/live/hls/2/live.m3u8
 CCTV-1综合,http://221.2.146.228:8888/newlive/live/hls/2/live.m3u8
 
+CCTV-2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-2财经,http://115.231.200.110:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-2财经,http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8
@@ -116,24 +117,25 @@ CCTV-5+体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-5+体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 
+CCTV-6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV-6电影,http://39.165.24.218:808/hls/6/index.m3u8
 CCTV-6电影,http://119.36.19.91:59901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://58.19.13.92:9901/tsfile/live/1005_1.m3u8
 CCTV-6电影,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=CCTV-6H265_4000
 
-CCTV-7军事,http://118.122.2.29:9999/hls/7/index.m3u8
 CCTV-7军事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV-7军事,http://118.122.2.29:9999/hls/7/index.m3u8
 CCTV-7军事,http://36.249.150.135:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7军事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 CCTV-7军事,http://58.19.13.92:9901/tsfile/live/1006_1.m3u8
 
+CCTV-8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV-8电视剧,http://118.122.2.29:9999/hls/8/index.m3u8
 CCTV-8电视剧,http://115.231.200.110:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV-9纪录,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9纪录,http://115.231.200.110:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 CCTV-10科教,http://39.165.24.218:808/hls/10/index.m3u8
 CCTV-10科教,http://58.19.13.92:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
