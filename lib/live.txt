@@ -35,6 +35,7 @@ CCTV-3综艺,http://116.11.159.0:8181/tsfile/live/0003_1.m3u8
 CCTV-4国际,http://116.11.159.0:8181/tsfile/live/0004_1.m3u8
 CCTV-5体育,http://116.11.159.0:8181/tsfile/live/0005_1.m3u8
 CCTV-5体育,http://116.11.159.0:8181/tsfile/live/1020_1.m3u8
+CCTV-5+体育,http://61.134.232.56:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://116.11.159.0:8181/tsfile/live/faacts/0006_1.m3u8
 CCTV-7军事,http://116.11.159.0:8181/tsfile/live/0007_1.m3u8
 CCTV-8电视剧,http://116.11.159.0:8181/tsfile/live/faacts/0008_1.m3u8
