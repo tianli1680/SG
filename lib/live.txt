@@ -30,13 +30,11 @@
 
 📡央视频道,#genre#
 
-
-CCTV1,http://42.237.180.39:7000/hls/60/index.m3u8
-CCTV2,http://42.237.180.39:7000/hls/61/index.m3u8
-CCTV3,http://42.237.180.39:7000/hls/62/index.m3u8
-CCTV4,http://42.237.180.39:7000/hls/63/index.m3u8
-CCTV5,http://42.237.180.39:7000/hls/64/index.m3u8
-CCTV5,http://42.237.180.39:7000/hls/75/index.m3u8
+CCTV1,http://113.15.186.251:8181/tsfile/live/faacts/1107_1.m3u8
+CCTV2,http://113.15.186.251:8181/tsfile/live/1098_1.m3u8
+CCTV3,http://113.15.186.251:8181/tsfile/live/1016_1.m3u8
+CCTV4,http://113.15.186.251:8181/tsfile/live/1099_1.m3u8
+CCTV5,http://113.15.186.251:8181/tsfile/live/faacts/1130_1.m3u8
 
 CCTV-5+体育,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV-5+体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
@@ -45,23 +43,6 @@ CCTV-5+体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-5+体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 
-CCTV6,http://42.237.180.39:7000/hls/65/index.m3u8
-CCTV7,http://42.237.180.39:7000/hls/66/index.m3u8
-CCTV8,http://42.237.180.39:7000/hls/67/index.m3u8
-CCTV9,http://42.237.180.39:7000/hls/68/index.m3u8
-CCTV10,http://42.237.180.39:7000/hls/69/index.m3u8
-CCTV11,http://42.237.180.39:7000/hls/70/index.m3u8
-CCTV12,http://42.237.180.39:7000/hls/71/index.m3u8
-CCTV13,http://42.237.180.39:7000/hls/72/index.m3u8
-CCTV14,http://42.237.180.39:7000/hls/73/index.m3u8
-CCTV15,http://42.237.180.39:7000/hls/74/index.m3u8
-
-
-CCTV1,http://113.15.186.251:8181/tsfile/live/faacts/1107_1.m3u8
-CCTV2,http://113.15.186.251:8181/tsfile/live/1098_1.m3u8
-CCTV3,http://113.15.186.251:8181/tsfile/live/1016_1.m3u8
-CCTV4,http://113.15.186.251:8181/tsfile/live/1099_1.m3u8
-CCTV5,http://113.15.186.251:8181/tsfile/live/faacts/1130_1.m3u8
 CCTV6,http://113.15.186.251:8181/tsfile/live/0003_1.m3u8
 CCTV7,http://113.15.186.251:8181/tsfile/live/faacts/1124_1.m3u8
 CCTV8,http://113.15.186.251:8181/tsfile/live/1074_1.m3u8
@@ -127,10 +108,8 @@ CCTV14,http://119.54.15.185:9999/hls/14/index.m3u8
 CCTV15,http://119.54.15.185:9999/hls/15/index.m3u8
 CCTV16,http://119.54.15.185:9999/hls/16/index.m3u8
 CCTV17,http://119.54.15.185:9999/hls/17/index.m3u8
-cctv16,http://119.54.15.185:9999/hls/29/index.m3u8
-CETV1,http://119.54.15.185:9999/hls/70/index.m3u8
-CETV2,http://119.54.15.185:9999/hls/71/index.m3u8
-CETV4,http://119.54.15.185:9999/hls/72/index.m3u8
+CCTV16,http://119.54.15.185:9999/hls/29/index.m3u8
+
 
 CCTV1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
@@ -362,26 +341,6 @@ CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 CCTV-4k,http://lu1.cc/itv/php/cctv4k.php
 
 📡卫视频道,#genre#
-河南卫视,http://42.237.180.39:7000/hls/76/index.m3u8
-湖南卫视,http://42.237.180.39:7000/hls/87/index.m3u8
-浙江卫视,http://42.237.180.39:7000/hls/88/index.m3u8
-东方卫视,http://42.237.180.39:7000/hls/89/index.m3u8
-江苏卫视,http://42.237.180.39:7000/hls/90/index.m3u8
-北京卫视,http://42.237.180.39:7000/hls/91/index.m3u8
-广东卫视,http://42.237.180.39:7000/hls/92/index.m3u8
-安微卫视,http://42.237.180.39:7000/hls/93/index.m3u8
-辽宁卫视,http://42.237.180.39:7000/hls/94/index.m3u8
-深圳卫视,http://42.237.180.39:7000/hls/95/index.m3u8
-天津卫视,http://42.237.180.39:7000/hls/96/index.m3u8
-山东卫视,http://42.237.180.39:7000/hls/97/index.m3u8
-湖北卫视,http://42.237.180.39:7000/hls/98/index.m3u8
-河北卫视,http://42.237.180.39:7000/hls/99/index.m3u8
-黑龙江卫视,http://42.237.180.39:7000/hls/100/index.m3u8
-东南卫视,http://42.237.180.39:7000/hls/101/index.m3u8
-吉林卫视,http://42.237.180.39:7000/hls/102/index.m3u8
-四川卫视,http://42.237.180.39:7000/hls/103/index.m3u8
-贵州卫视,http://42.237.180.39:7000/hls/104/index.m3u8
-江西卫视,http://42.237.180.39:7000/hls/105/index.m3u8
 
 南方卫视,http://113.15.186.251:8181/tsfile/live/1003_1.m3u8
 深圳卫视W,http://113.15.186.251:8181/tsfile/live/1071_1.m3u8
