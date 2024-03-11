@@ -32,6 +32,17 @@
       "changeable": 0,
       "jar": "./lib/阿里设置.txt"
     },
+
+        {
+            "key": "Fangniu4k",
+            "name": "🇨🇳放牛┃TV┃App",
+            "type": 3,
+            "api": "csp_Fangniu4k",
+            "searchable": 1,
+            "jar": "./二小.jar",
+            "changeable": 1
+        },
+	  
     {
       "key": "玩偶哥哥",
       "name": "拾光┃玩偶4K",
