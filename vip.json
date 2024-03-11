@@ -32,7 +32,19 @@
       "changeable": 0,
       "jar": "./lib/阿里设置.txt"
     },
-
+    {
+      "key":"Taohuazu",
+      "name":"桃花族",
+      "type":3,
+      "api":"csp_Taohuazu",
+      "jar":"./pg.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "filterable":0,
+      "timeout":60,
+      "ext":"http://thze.cc/"
+        },
         {
             "key": "Fangniu4k",
             "name": "🇨🇳放牛┃TV┃App",
@@ -743,24 +755,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
-    },
-	 
-	  //自己测试使用
-	  {
-            "key": "Taohuazu",
-            "name": "桃花族",
-            "type": 3,
-            "api": "csp_Taohuazu",
-            "jar": "./pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "http://thze.cc/"
-        },
-
-	  
+    },  
     {
       "key": "ext_live_protocol",
       "name": "智软界",
