@@ -87,12 +87,12 @@ CCTV3,http://183.185.217.69:9999/tsfile/live/0003_1.m3u8
 CCTV4,http://183.185.217.69:9999/tsfile/live/0004_1.m3u8
 CCTV5,http://183.185.217.69:9999/tsfile/live/0005_1.m3u8
 
-CCTV-5+体育,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV-5+体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-5+体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/225/3221225761/1.m3u8
-CCTV-5+体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CCTV-5+体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV-5+体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/225/3221225761/1.m3u8
+CCTV5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 
 CCTV6,http://183.185.217.69:9999/tsfile/live/0006_1.m3u8
 CCTV7,http://183.185.217.69:9999/tsfile/live/0007_1.m3u8
