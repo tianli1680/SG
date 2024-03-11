@@ -90,6 +90,14 @@
     {"key":"开心HK影视","name":"拾光┃天天","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
     {"key":"开心影视","name":"拾光┃开心","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
 
+{"key":"yinyue","name":"线路|音乐","type":4,"api":"https://catbox.n13.club/yyy.php"},
+{"key":"xuexi","name":"线路|学习","type":4,"api":"https://catbox.n13.club/t4.php?url=2"},
+{"key":"xyyy","name":"小姨音乐","type":4,"api":"https://catbox.n13.club/wy.php"},
+{"key":"T4-duanju","name":"线路|短剧","type":4,"api":"https://catbox.n13.club/duanju.php","searchable": 1,"quickSearch":1,"filterable":1,"changeable":0,"ext": true},
+{"key":"MV_vod","name":"明星mv","type":3,"api":"caiji.js","ext":"https://catbox.n13.club/wy.php"},
+{"key":"T4-nangua","name":"南瓜电影","type":4,"api":"https://catbox.n13.club/nangua.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4-yinyuetai","name":"音悦台","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": true},
+	  
 	    {
       "key": "南瓜",
       "name": "拾光┃南瓜",
