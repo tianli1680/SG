@@ -7,7 +7,8 @@
 张杰 - 雪龙吟,https://d.kstore.space/download/6951/Tvbox/js/张杰 - 雪龙吟.mkv
 张杰 - 少年中国说,https://d.kstore.space/download/6951/Tvbox/js/张杰 - 少年中国说.mkv
 《西楼儿女》海来阿木（原版）,https://d.kstore.space/download/6951/Tvbox/js/男神丨星帅 - 《西楼儿女》海来阿木（原版）.mkv
-凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
+凤凰传奇 - 奢香夫人（现场版）,https://d.kstore.space/download/6951/Tvbox/js/凤凰传奇 - 奢香夫人（现场版）.mkv
+
 浪子闲话-笑纳-赤伶,https://vd3.bdstatic.com/mda-mi0jir5caqx8xtmh/1080p/cae_h264/1630505223203305128/mda-mi0jir5caqx8xtmh.mp4
 邓丽君 歌曲精选九首 經典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
 凤凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
@@ -35,7 +36,7 @@
 吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
 李圣杰-痴心绝对,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
-
+凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
 📡央视频道,#genre#
 CCTV1,http://110.72.68.99:808/hls/54/index.m3u8
 CCTV2,http://110.72.68.99:808/hls/97/index.m3u8
