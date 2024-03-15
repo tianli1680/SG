@@ -54,7 +54,10 @@
             "jar": "./二小.jar",
             "changeable": 1
         },
-	  
+{"key":"海兔影院","name":"海兔┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#综艺$3"}},
+{"key":"熊猫影院","name":"熊猫┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://xmvod520.com/index.php/vod/show/{cateId}/area/{area}/by/{by}/class/{class}/{page/{catePg}/year/{year}.html","分类":"电视剧$69#电影$52#综艺$77"}},
+{"key":"华人影院","name":"华人┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧$drama#电影$movie"}},
+{"key":"星辰影院","name":"星辰┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.sccd.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧$dsj#电影$by"}},	  
     {
       "key": "玩偶哥哥",
       "name": "拾光┃玩偶4K",
