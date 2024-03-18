@@ -68,10 +68,11 @@ CCTV1,http://1.196.252.209:808/hls/1/index.m3u8
 CCTV2,http://1.196.252.209:808/hls/2/index.m3u8
 CCTV3,http://1.196.252.209:808/hls/3/index.m3u8
 CCTV4,http://1.196.252.209:808/hls/4/index.m3u8
-CCTV5,http://1.196.252.209:808/hls/5/index.m3u8
+CCTV5,http://113.86.205.102:808/hls/5/index.m3u8
+CCTV5+,http://1.196.252.209:808/hls/5/index.m3u8
 CCTV5+,http://111.225.92.102:8800/hls/101/index.m3u8
 CCTV6,http://1.196.252.209:808/hls/6/index.m3u8
-CCTV7,http://1.196.252.209:808/hls/7/index.m3u8
+CCTV7,http://121.24.99.11:8090/hls/15/index.m3u8
 CCTV8,http://123.149.201.44:808/hls/8/index.m3u8
 CCTV9,http://1.196.252.209:808/hls/9/index.m3u8
 CCTV10,http://1.196.252.209:808/hls/10/index.m3u8
@@ -120,7 +121,7 @@ CCTV2,http://121.24.99.11:8090/hls/10/index.m3u8
 CCTV3,http://121.24.99.11:8090/hls/11/index.m3u8
 CCTV4,http://121.24.99.11:8090/hls/12/index.m3u8
 CCTV6,http://121.24.99.11:8090/hls/14/index.m3u8
-CCTV17,http://121.24.99.11:8090/hls/15/index.m3u8
+CCTV17,http://1.196.252.209:808/hls/7/index.m3u8
 CCTV8,http://121.24.99.11:8090/hls/16/index.m3u8
 CCTV9,http://121.24.99.11:8090/hls/17/index.m3u8
 CCTV10,http://121.24.99.11:8090/hls/18/index.m3u8
