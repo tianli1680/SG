@@ -58,7 +58,38 @@
 {"key":"熊猫影院","name":"熊猫┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://xmvod520.com/index.php/vod/show/{cateId}/area/{area}/by/{by}/class/{class}/{page/{catePg}/year/{year}.html","分类":"电视剧$69#电影$52#综艺$77"}},
 {"key":"华人影院","name":"华人┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧$drama#电影$movie"}},
 {"key":"星辰影院","name":"星辰┃海外","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.sccd.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧$dsj#电影$by"}},	  
-    {
+        {
+            "key": "高清云影视",
+            "name": "高清云影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "免嗅": "1",
+                "副标题": "pic-text text-right\">&&</span>",
+                "简介": "class=\"col-pd\">&&如果您喜欢",
+                "分类url": "https://www.guangmaoshenye.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}/[https://www.guangmaoshenye.com/gain/{cateId}/]",
+                "分类": "理论电影$lilun"
+            }
+        },
+        {
+            "key": "尤物影视",
+            "name": "龙物影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://44.wangyemg9.top/vodtype/{cateId}-{catePg}.html",
+                "直接播放": 1,
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "分类数组": "<a&&</a >",
+                "分类标题": ">&&/a>[不包含:更多]",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
+	  
+	  {
       "key": "玩偶哥哥",
       "name": "拾光┃玩偶4K",
       "type": 3,
