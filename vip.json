@@ -818,9 +818,8 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
     },  
 
-//添加
 {
-      "key": "KK资源网",
+ "key": "KK资源网",
       "name": "KK资源网",
       "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
       "group": "18+",
@@ -973,7 +972,6 @@
       "resource": 16688
     },
 
-//添加
 	  
     {
       "key": "ext_live_protocol",
