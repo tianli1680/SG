@@ -62,8 +62,8 @@ Forever Young（《闪光的乐队》综艺主题曲）,https://d.kstore.space/d
 王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
 李圣杰-痴心绝对,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
 凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
+
 📡央视频道,#genre#
-央视,#genre#
 CCTV-1综合,http://219.145.20.40:28015/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://219.145.20.40:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://219.145.20.40:18083/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
