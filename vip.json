@@ -114,8 +114,6 @@
             "jar": "./pg.jar"
         },
 
-
-	  
 	  {
       "key": "玩偶哥哥",
       "name": "拾光┃玩偶4K",
@@ -174,6 +172,8 @@
     {"key":"开心HK影视","name":"拾光┃天天","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
     {"key":"开心影视","name":"拾光┃开心","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
 
+{"key":"YingSo", "name": "📀💕影搜（pg）", "type": 3, "api": "csp_YingSo", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar":"./pg.jar" },
+	  
 {"key":"yinyue","name":"线路|音乐","type":4,"api":"https://catbox.n13.club/yyy.php"},
 {"key":"xuexi","name":"线路|学习","type":4,"api":"https://catbox.n13.club/t4.php?url=2"},
 {"key":"xyyy","name":"小姨音乐","type":4,"api":"https://catbox.n13.club/wy.php"},
