@@ -172,8 +172,7 @@
     {"key":"开心HK影视","name":"拾光┃天天","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
     {"key":"开心影视","name":"拾光┃开心","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
 
-{"key":"YingSo", "name": "📀💕影搜（pg）", "type": 3, "api": "csp_YingSo", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar":"./pg.jar" },
-	  
+
 {"key":"yinyue","name":"线路|音乐","type":4,"api":"https://catbox.n13.club/yyy.php"},
 {"key":"xuexi","name":"线路|学习","type":4,"api":"https://catbox.n13.club/t4.php?url=2"},
 {"key":"xyyy","name":"小姨音乐","type":4,"api":"https://catbox.n13.club/wy.php"},
@@ -182,11 +181,10 @@
 {"key":"T4-nangua","name":"南瓜电影","type":4,"api":"https://catbox.n13.club/nangua.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4-yinyuetai","name":"音悦台","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"阿里云集合","name":"阿里云集合|4K","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"ext":"./lib/阿里集合.json;./lib/tokenm.txt","jar":"./0204.jar"},
-{"key":"星空影院","name":"🎬星空┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"手机","数组":"","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","线路数组":"<h3class=\"title\">&&</h3>[排序:播放线路3>播放线路2>播放线路4>播放线路5>播放线路6>播放线路1>]","线路标题":"✨集多专享接口✨+>播放线路</h3>","播放数组":"ulclass=\"stui-content__playlistclearfix\">&&</ul>",
-"跳转播放链接":"Base64(varplayer_*\"url\":\"&&\")","分类url":"http://www.xuym.cn/vrgfdsr/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html[http://www.xuym.cn/xkyh/{cateId}.html]","分类":"电影&连续剧&综艺&动漫&悬疑&犯罪&纪录&惊悚&动作&喜剧&爱情&科幻&恐怖&剧情&战争&国产剧&港台剧&日韩剧&海外剧&欧美剧","分类值":"1&2&3&4&25&23&24&30&6&7&8&9&10&11&12&13&20&21&22&16"}},
+
 {"key":"555yingshi","name":"555影视","type":3,"api":"csp_XBPQ","jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
 "ext":{"分类":"电影$1#电视剧$2#福利$124#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
-{"key":"csp_桵空影院","name":"桵空影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类":"电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
+
 {"key":"csp_lwdy","name":"老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
     {
       "key": "TVB云播",
